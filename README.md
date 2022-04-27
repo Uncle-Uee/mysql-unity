@@ -5,9 +5,10 @@ Getting MySQL to work with Unity using ODBC or the MySQL.Data plugin
 To understand the issue, please read the answer given by [peacemaker](https://answers.unity.com/questions/1785533/unity-and-mysql-connector.html).
 
 # Included in this Project
-I have included the required MySQL .Net Connector Plugins for Unity 2021.3 (v4.5.2 and v4.8) and Unity 2020.3.30 (v4.5) as well as 2 example scripts that can be used to test a connection to your MySQL Database. <br/>
+I have included the required MySQL .Net Connector Plugins for Unity 2021.3 (v4.5.2 and v4.8) <br/>
+and Unity 2020.3.30 (v4.5) as well as 2 example scripts that can be used to test a connection to your MySQL Database. <br/>
 
-I have tested this Project with local MAMP server and I get an open connection to my MySQL Database.
+I have tested this Project with local MAMP server.
 
 ## Plugins
 For Unity 2020.3 and Possibly Older version of Unity use the following version of the MySQL .Net Connector Plugin
