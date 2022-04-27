@@ -147,7 +147,7 @@ Try v6.9.5 as suggested in the Unity answer under the heading [Understanding the
 
 #### Open Unity
    1. If you did not change the API Compatibility Level to .Net Framework 4.x please do so
-   2. If you did not Create a Plugins folder, create it or follow the instructions above for the Unity Version you are using
+   2. If you did not Create a Plugins folder, create it
    3. If you did not Drag and Drop the folder you extracted into the Plugins folder, please do so
    4. Create a Script called DatabaseManager
    5. Overwrite the default code with the Following script - **update the script with your connection information**
