@@ -51,6 +51,7 @@ The Project also includes 2 examples found in the Scripts folder.
 5. Open Unity
    1. Create a Script called DatabaseManager
    2. Overwrite it with the following code - **update the script with your connection information**
+   3. For connection examples please have a look [here](https://dev.mysql.com/doc/connector-odbc/en/connector-odbc-examples-programming-net-csharp.html)
 
        ```csharp
        public class DatabaseManager : MonoBehaviour
@@ -153,6 +154,7 @@ Try v6.9.5 as suggested in the Unity answer under the heading [Understanding the
    3. If you did not Drag and Drop the folder you extracted into the Plugins folder, please do so
    4. Create a Script called DatabaseManager
    5. Overwrite the default code with the Following script - **update the script with your connection information**
+   6. For connection examples please have a look [here](https://dev.mysql.com/doc/connector-net/en/connector-net-connections-string.html) or [here](https://dev.mysql.com/doc/connector-net/en/connector-net-programming.html)
 
        ```csharp
        using MySql.Data.MySqlClient;
@@ -207,6 +209,6 @@ Try v6.9.5 as suggested in the Unity answer under the heading [Understanding the
        }
        ```
 
-   6. Attach the script to an Object
-   7. Press Play, you should get a message that says “Opened Connection”. 
-   8. Start scripting your SQL Queries.
+   7. Attach the script to an Object
+   8. Press Play, you should get a message that says “Opened Connection”. 
+   9. Start scripting your SQL Queries.
