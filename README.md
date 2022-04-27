@@ -35,7 +35,7 @@ The Project also includes 2 examples found in the Scripts folder.
    - ODBC
      - DatabaseManager.cs
 
-# Manually Install MySQL for Unity
+# Manual Setup for Unity
 ## Setup - ODBC
 1. Download ODBC Driver [here](https://dev.mysql.com/downloads/connector/odbc/).
 2. Install the ODBC Driver.
