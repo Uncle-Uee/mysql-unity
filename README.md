@@ -45,7 +45,7 @@ The Project also includes 2 examples found in the Scripts folder.
    3. Open ODBC Data Sources 64bit
    4. Click Add
    5. Copy the Driver name of the Driver that you see, for example mine says “MySQL ODBC 8.0 Unicode Driver”
-4. Open MAMP or XAMPP or Start your MySQL Server
+4. Using MAMP, XAMPP, MySQL Server or whatever MySQL instance you have available
    1. Create a Database called test
    2. Create a Table in that Database, name if whatever you want.
 5. Open Unity
