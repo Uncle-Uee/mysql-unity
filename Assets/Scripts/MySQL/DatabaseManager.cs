@@ -39,7 +39,7 @@ namespace Example.MySql
                 using (MySqlConnection connection = new MySqlConnection(builder.ToString()))
                 {
                     connection.Open();
-                    print("Opened Connection");
+                    print("MySQL - Opened Connection");
                 }
             }
             catch (MySqlException exception)

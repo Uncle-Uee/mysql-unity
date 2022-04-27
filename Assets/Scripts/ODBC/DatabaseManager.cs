@@ -16,7 +16,18 @@ namespace Example.Odbc
 
         #endregion
 
+        #region UNITY METHODS
+
         private void Start()
+        {
+            Connect();
+        }
+
+        #endregion
+
+        #region METHODS
+
+        private void Connect()
         {
             try
             {
@@ -29,7 +40,7 @@ namespace Example.Odbc
                 using (OdbcConnection connection = new OdbcConnection(connectionString))
                 {
                     connection.Open();
-                    print("Open Connection");
+                    print("ODBC - Opened Connection");
                 }
             }
             catch (OdbcException exception)
@@ -37,5 +48,7 @@ namespace Example.Odbc
                 print(exception.Message);
             }
         }
+
+        #endregion
     }
 }
