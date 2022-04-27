@@ -48,7 +48,7 @@ The Project also includes 2 examples found in the Scripts folder.
    2. Create a Table in that Database, name if whatever you want.
 5. Open Unity
    1. Create a Script called DatabaseManager
-   2. Overwrite it with the following code
+   2. Overwrite it with the following code - **update the script with your connection information**
 
        ```csharp
        public class DatabaseManager : MonoBehaviour
@@ -101,8 +101,8 @@ The Project also includes 2 examples found in the Scripts folder.
        }
        ```
 
-   3. Attach the script to an Object.
-   4. Press Play, you should get a log message that says “Open Connection”.
+   4. Attach the script to an Object.
+   5. Press Play, you should get a log message that says “Open Connection”.
 6. Start Scripting your SQL Queries
 
 
@@ -150,7 +150,7 @@ Try v6.9.5 as suggested in the Unity answer under the heading [Understanding the
    2. If you did not Create a Plugins folder, create it or follow the instructions above for the Unity Version you are using
    3. If you did not Drag and Drop the folder you extracted into the Plugins folder, please do so
    4. Create a Script called DatabaseManager
-   5. Overwrite the default code with the Following script
+   5. Overwrite the default code with the Following script - **update the script with your connection information**
 
        ```csharp
        using MySql.Data.MySqlClient;
