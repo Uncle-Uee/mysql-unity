@@ -115,8 +115,8 @@ The Project also includes 2 examples found in the Scripts folder.
 ## Setup - MySQL .NET Connector Plugin
 ### Notes
 - For Unity 2021.3 the working and tested version for the MySQL .Net Connector Plugin is v8.0.28
-- I have tested the .Net Connector Plugin v6.9.11 and it works in Unity 2021.
-   - The version of the .Net plugin that was tested in Unity 2021.3 was v4.5, v4.5.2 and v4.8, all 3 work!
+- From the tests that I have done, it seems like newer versions of Unity support older versions of the .Net Connector Plugin (v6.9.11).
+   - The versions of the .Net Connector Plugin that was tested in Unity 2021.3 was v4.5, v4.5.2 and v4.8, all 3 work!
      - MySQL .Net Connector Plugin v6.9.11
        - Extract v4.x - delete everything except the MySql.Data.dll file
      - MySQL .Net Connector Plugin v8.0.28

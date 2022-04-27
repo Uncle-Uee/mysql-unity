@@ -1,0 +1,1 @@
+Unity 2021 is backwards compatible with v6.9.11 of the MySQL .Net Connector Plugin.
