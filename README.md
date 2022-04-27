@@ -11,13 +11,15 @@ and Unity 2020.3.30 (v4.5) as well as 2 example scripts that can be used to test
 I have tested this Project with local MAMP server.
 
 ## Plugins
-For Unity 2020.3 and Possibly Older version of Unity use the following version of the MySQL .Net Connector Plugin
+Please delete the already extracted v4.8 Plugin for Unity 2021 if you are using an older version of Unity.
+
+For Unity 2020.3 and Possibly Older version of Unity extract the following version of the MySQL .Net Connector Plugin
 - Plugins
   - MySQL
     - Unity-2020
       - v4.5
 
-For Unity 2021.3 and Possibly Newer versions of Unity use the following version of the MySQL .Net Connector Plugin
+For Unity 2021.3 and Possibly Newer versions of Unity extract the following version of the MySQL .Net Connector Plugin
 - Plugin
   - MySQL
     - Unity-2021
