@@ -8,7 +8,7 @@ To understand the issue, please read the answer given by [peacemaker](https://an
 I have included the required MySQL .Net Connector Plugins for Unity 2021.3 (v4.5.2 and v4.8) <br/>
 and Unity 2020.3.30 (v4.5) as well as 2 example scripts that can be used to test a connection to your MySQL Database. <br/>
 
-I have tested this Project with local MAMP server.
+**I have tested this Project with local MAMP server.**
 
 ## Plugins
 Please delete the already extracted v4.8 Plugin for Unity 2021 if you are using an older version of Unity.
