@@ -1,5 +1,5 @@
 # MySQL Unity
-Getting MySQL to work with Unity using ODBC or the MySQL.Data plugin
+Getting MySQL to work with Unity using ODBC or the MySQL .Net Connector plugin
 
 # Understanding the Issue
 To understand the issue, please read the answer given by [peacemaker](https://answers.unity.com/questions/1785533/unity-and-mysql-connector.html).
