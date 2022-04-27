@@ -139,7 +139,7 @@ Try v6.9.5 as suggested in the Unity answer under the heading [Understanding the
 #### Unity 2021.3 and Newer
 1. Navigate to the zip you downloaded v8.0.28
    1. Extract the 4.5.2 or the 4.8 folder
-   2. Open the Folder you extracted and Delete the MySql.Web.dll and MySql.Web.xml files
+   2. Open the Folder you extracted and Delete the MySql.Data.EntityFramework.dll, MySql.Data.EntityFramework.xml and the MySql.Web.dll and MySql.Web.xml files
    3. Open Unity
       1. Go to Project Settings, Player, Other Settings, and Change the API Compatibility Level to .Net Framework 4.x
       2. Create a Plugins Folder in Unity
