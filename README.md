@@ -13,7 +13,7 @@ and Unity 2020.3.30 (v4.5) as well as 2 example scripts that can be used to test
 **I have tested this Project with local MAMP server.**
 
 ## Plugins
-Please delete the already extracted v4.8 Plugin for Unity 2021 if you are using an older version of Unity.
+Please delete the already extracted v4.5 plugin if you wish to use an updated version of the plugin.
 
 For Unity 2020.3 and Possibly Older version of Unity extract the following version of the MySQL .Net Connector Plugin
 - Plugins
