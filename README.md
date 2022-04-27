@@ -4,7 +4,7 @@ Getting MySQL to work with Unity using ODBC or the MySQL .Net Connector plugin.
 The ODBC and MySQL .Net Connector Plugins have been tested with a local MAMP server.
 
 If you can, try and setup a REST API that can perform your CRUD operations on your Database for you.
-Then use UnityWebRequest to connect your Project to your Database.
+Then use UnityWebRequest to connect your Project to your Database via the REST API.
 
 # Understanding the Issue
 To understand the issue, please read the answer given by [peacemaker](https://answers.unity.com/questions/1785533/unity-and-mysql-connector.html).
