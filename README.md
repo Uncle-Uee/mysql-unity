@@ -47,10 +47,12 @@ The Project also includes 2 examples found in the Scripts folder.
 2. Install the ODBC Driver.
 3. Find the ODBC Driver name
    1. Open Start Menu
-   2. Search for Administrator Tools (Win10), in Win11 open Run and Search for "control admintools)
-   3. Open ODBC Data Sources 64bit
-   4. Click Add
-   5. Copy the Driver name of the Driver that you see, for example mine says “MySQL ODBC 8.0 Unicode Driver”
+   2. Adminstrator Tools
+     1. Win10 search for Administrator Tools
+     2. Win11 open Run and search for "control admintools"
+   4. Open ODBC Data Sources 64bit
+   5. Click Add
+   6. Copy the Driver name of the Driver that you see, for example mine says “MySQL ODBC 8.0 Unicode Driver”
 4. Using MAMP, XAMPP, MySQL Server or whatever MySQL instance you have available
    1. Create a Database called test
    2. Create a Table in that Database, name if whatever you want.
