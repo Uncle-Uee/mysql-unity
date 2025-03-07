@@ -47,13 +47,13 @@ The Project also includes 2 examples found in the Scripts folder.
 2. Install the ODBC Driver.
 3. Find the ODBC Driver name
    1. Open Start Menu
-   2. In Win10 search for Administrator Tools, in Win11 open Run and search for "control admintools"
+   2. In Windows 10 search for Administrator Tools, in Windows 11 open Run and search for "control admintools"
    4. Open ODBC Data Sources 64bit
    5. Click Add
    6. Copy the Driver name of the Driver that you see, for example mine says “MySQL ODBC 8.0 Unicode Driver”
 4. Using MAMP, XAMPP, MySQL Server or whatever MySQL instance you have available
    1. Create a Database called test
-   2. Create a Table in that Database, name if whatever you want.
+   2. Create a table in that database, and name it whatever you want.
 5. Open Unity
    1. Create a Script called DatabaseManager
    2. Overwrite it with the following code - **update the script with your connection information**
@@ -118,7 +118,7 @@ The Project also includes 2 examples found in the Scripts folder.
 ## Setup - MySQL .NET Connector Plugin
 ### Notes
 - For Unity 2021.3 the working and tested version for the MySQL .Net Connector Plugin is v8.0.28
-- From the tests that I have done, it seems like newer versions of Unity support older versions of the .Net Connector Plugin (v6.9.11).
+- From the tests I have done, it seems that newer versions of Unity support older versions of the .Net Connector Plugin (v6.9.11).
    - The versions of the .Net Connector Plugin that was tested in Unity 2021.3 was v4.5, v4.5.2 and v4.8, all 3 work!
      - MySQL .Net Connector Plugin v6.9.11
        - Extract v4.x - delete everything except the MySql.Data.dll file
