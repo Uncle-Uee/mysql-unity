@@ -48,8 +48,8 @@ The Project also includes 2 examples found in the Scripts folder.
 3. Find the ODBC Driver name
    1. Open Start Menu
    2. Adminstrator Tools
-     1. Win10 search for Administrator Tools
-     2. Win11 open Run and search for "control admintools"
+     2.1. Win10 search for Administrator Tools
+     2.2. Win11 open Run and search for "control admintools"
    4. Open ODBC Data Sources 64bit
    5. Click Add
    6. Copy the Driver name of the Driver that you see, for example mine says “MySQL ODBC 8.0 Unicode Driver”
